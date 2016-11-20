@@ -1,0 +1,15 @@
+/*form partial below with the haml specific divs to structure the form otherwise the text is not within the scope of the screen*/
+
+%div
+	%div.col-md-12
+		%div.col-md-6
+
+			= simple_form_for(@job, html: { class: 'form-horizontal' }) do |f|
+				= f.input :title, label: "Job Title"
+				= f.input :description, label: "Job Description"
+				= f.input :tutor, label: "Tutor's name"
+				= f.input :url, label: "Social Media contact information"
+				%br/
+				= f.button :submit
+	
+		
