@@ -2,4 +2,10 @@
 	%h2= link_to job.title, job
 	%p= job.tutor
 
-=link_to "New Job", new_job_path
+
+
+-# #jobs
+	- @jobs.each do |job|
+		.job
+			%h2= link_to job.title, job
+			%p= job.company -->
