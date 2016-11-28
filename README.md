@@ -6,6 +6,6 @@ https://github.com/CJbarbs/tuteboard
 
 Tute connect was going to be a message board application to help connect students to tutors and tutors to students, I began developing the application with the help of an online tutorial. 
 
-To run the application simply clone the repository, `cd` into the application folder and use command `rails server` to start a local server, then navigate to [localhost:3000](localhost:3000) in your web browser, note that rails will need to be installed on the system to run the application.
+To run the application simply clone the repository, `cd` into the application folder and use command `rails server` to start a local server, then navigate to (localhost:3000) in your web browser, note that rails will need to be installed on the system to run the application.
 
 
