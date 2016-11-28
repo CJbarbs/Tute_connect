@@ -6,4 +6,4 @@ https://github.com/CJbarbs/tuteboard
 
 Tute connect was going to be a message board application to help connect students to tutors and tutors to students, I began developing the application with the help of an online tutorial. 
 
-A live verson of the app can be found here:
+
